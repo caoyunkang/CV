@@ -8,3 +8,6 @@ redirect_from:
   - /about.html
 ---
 
+Selected Honors
+====
+
