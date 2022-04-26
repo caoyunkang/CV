@@ -17,8 +17,8 @@ Education
 
 Work experience
 ======
-* Summer 2018: Algorithm Engineer
-  * LDROBOT
+* 07/2018-08/2018: Algorithm Engineer
+  * [LDROBOT](https://www.ldrobot.com/about-us)
   * Duties included: Semantic segmentation for 2D plane map
 
   
