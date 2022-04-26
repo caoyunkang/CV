@@ -34,28 +34,3 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-[comment]: <> (Talks)
-
-[comment]: <> (======)
-
-[comment]: <> (  <ul>{% for post in site.talks %})
-
-[comment]: <> (    {% include archive-single-talk-cv.html %})
-
-[comment]: <> (  {% endfor %}</ul>)
-  
-[comment]: <> (Teaching)
-
-[comment]: <> (======)
-
-[comment]: <> (  <ul>{% for post in site.teaching %})
-
-[comment]: <> (    {% include archive-single-cv.html %})
-
-[comment]: <> (  {% endfor %}</ul>)
-  
-[comment]: <> (Service and leadership)
-
-[comment]: <> (======)
-
-[comment]: <> (* Currently signed in to 43 different slack teams)
