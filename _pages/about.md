@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 Selected Honors
-====
+======
 
 - *Star of math models nominated* by Ministry of Education, 2021
 
