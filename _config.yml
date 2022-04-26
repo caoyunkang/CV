@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "-"
+title                    : "Yunkang Cao (曹云康)"
 title_separator          : "-"
 name                     : &name "Yunkang Cao"
-description              : &description "Ph.D Candidate at Huazhong University of Science and Technology"
+description              : &description "Ph.D Candidate at Huazhong University of Science & Technology"
 url                      : https://caoyunkang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "caoyunkang/caoyunkang.github.io"
