@@ -5,11 +5,11 @@ permalink: /publication/2022-04-15-Semi-supervised-Knowledge-Distillation-for-Ti
 excerpt: 'Anomaly segmentation'
 date: 2022-04-15
 venue: 'IEEE Conference on CSCWD'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
+paperurl: 'xxxxxxxxxxxxxxx'
 citation: 'Yunkang, Cao. (2022). &quot;Semi-supervised Knowledge Distillation for Tiny Defect Detection&quot; <i>IEEE Conference on CSCWD</i>. Preprint.'
 ---
 Anomaly segmentation
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
+[Download paper here](xxxxxxxxxxxxx)
 
 Recommended citation: Yunkang, Cao. (2022). "Semi-supervised Knowledge Distillation for Tiny Defect Detection" <i>IEEE Conference on CSCWD</i>. Preprint.
