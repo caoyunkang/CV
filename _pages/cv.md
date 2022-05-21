@@ -38,4 +38,4 @@ Photos
 ======
 Ruoyu Wang is my lovely girlfriend.
 
-![avatar](../images/she1.png)
+![avatar](../images/she2.png)
