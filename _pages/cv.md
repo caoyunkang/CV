@@ -34,3 +34,8 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+Photos
+======
+Ruoyu Wang is my lovely girlfriend.
+
+![avatar](../images/she.png)
